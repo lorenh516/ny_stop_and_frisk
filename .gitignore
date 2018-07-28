@@ -1,3 +1,5 @@
 *.csv
+*.xlsx
+data/SQF-File-Documentation/
 .DS_Store?
 .DS_Store
